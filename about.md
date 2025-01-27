@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## About Me
 
-### More Information
+Hi everyone, my name is **Olivia Yu**. I’m from **China** and studied in **Maryland**.  
+I’m currently studying **Computer Science and Math** as a joint major.  
+I’m an **extroverted** person who enjoys social interactions.  
 
-A place to include any other types of information that you'd like to include about yourself.
+## Interests
+
+I have a strong passion for the **fashion industry**, and I enjoy **Jazz & Hip Hop dance**.
+
 
